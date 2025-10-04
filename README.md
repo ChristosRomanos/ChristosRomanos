@@ -85,7 +85,7 @@ funFact: "Mathematics Olympiad Gold Medalist! 🏆"
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=&color=blChristosRomanosue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ChristosRomanos&color=blue&style=flat-square)
 
 </div>
 
