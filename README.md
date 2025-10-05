@@ -8,7 +8,7 @@
 </div>
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** in my penultimate year at the **University of Edinburgh** with a passion for **Software Engineering**, **Mathematics**, and **AI Development**. Currently seeking software engineering opportunities where I can apply my technical skills and contribute to innovative projects  .
+I'm a **Computer Science student** in my last year at the **University of Edinburgh** with a passion for **Software Engineering**, **Mathematics**, and **AI Development**. Currently seeking software engineering opportunities where I can apply my technical skills and contribute to innovative projects  .
 
 const christos = {
 location: "Nicosia, Cyprus / Edinbrugh , United Kingdom",
