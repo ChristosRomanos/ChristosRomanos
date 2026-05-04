@@ -77,7 +77,15 @@ funFact: "Mathematics Olympiad Gold Medalist! 🏆"
 - A drone delivery REST aApp that takes an order validates it and calculate a drone path.
 - [🔗 Repository](https://github.com/ChristosRomanos/PizzaDronz)
 
+### Adaptive Expert Depth for Drug-Target Affinity Prediction
+- Final-year dissertation project in machine learning and computational drug discovery
+- Investigated whether different drug-target pairs are better predicted by different interaction depths rather than a single fixed architecture
+- Proposed **Adaptive Expert Depth (AED)**, a conditional-computation model with shared molecular encoders, a learned router, and depth-specialized interaction experts
+- Benchmarked the approach on **Davis** and **KIBA** using **random**, **cold-drug**, and **cold-target** evaluation splits
+- Showed positive relative MAE improvements over the best fixed-depth baselines, while also analysing routing behaviour and training stability
+- [🔗 Repository](https://github.com/ChristosRomanos/aed)
 
+  
 ---
 
 *📫 **Let's Connect!** I'm always interested in discussing new opportunities, collaborating on projects, or talking about technology. Feel free to reach out!*
