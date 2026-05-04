@@ -77,6 +77,11 @@ funFact: "Mathematics Olympiad Gold Medalist! 🏆"
 - A drone delivery REST aApp that takes an order validates it and calculate a drone path.
 - [🔗 Repository](https://github.com/ChristosRomanos/PizzaDronz)
 
+### CGR2025 Raytracer
+- A raytracer built as part of a Computer Graphics & Rendering course
+- Implements core ray tracing concepts including ray-object intersection, shading, reflections, and lighting
+- [🔗 Repository](https://github.com/ChristosRomanos/CGR2025_Raytracer)
+
 ### Adaptive Expert Depth for Drug-Target Affinity Prediction
 - Final-year dissertation project in machine learning and computational drug discovery
 - Investigated whether different drug-target pairs are better predicted by different interaction depths rather than a single fixed architecture
